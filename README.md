@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Find below projects I've worked on:
+
 
 
 
