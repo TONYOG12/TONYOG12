@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋, my name is Tony
+### 👨‍💻I'm interested in backend development and data science.
+### 🤔 I’m looking for help with contributing to open source project
+### 🌱 I enjoy challenging myself and learning new skills and ideas
+### 📫 How to reach me: anthonygyan@gmail.com and tonykgyan@gmail.com
+
+
 
 
 
@@ -12,11 +18,11 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+-  I’m currently learning ...
+- 
+- 
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
