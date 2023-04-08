@@ -1,6 +1,6 @@
 #### Hi there 👋, my name is Tony.
-#### 👨‍💻I'm interested in backend development and data science.
-#### 🤔 I’m looking for interesting open source projects to contribute to.
+#### 👨‍💻I'm a backend developer with a keen interest in data science.
+#### 🤔 I’m looking for interesting open source and ML projects to contribute to.
 #### 🌱 I enjoy challenging myself and learning new skills and ideas.
 #### 📫 How to reach me: anthonygyan@gmail.com and tonykgyan@gmail.com.
 
