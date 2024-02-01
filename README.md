@@ -2,7 +2,7 @@
 #### 👨‍💻I'm a backend developer with a keen interest in data science.
 #### 🤔 I’m looking for interesting open source and ML projects to contribute to.
 #### 🌱 I enjoy challenging myself and learning new skills and ideas.
-#### 📫 How to reach me: anthonygyan@gmail.com and tonykgyan@gmail.com.
+#### 📫 How to reach me: tonykgyan@gmail.com.
 
 
 
