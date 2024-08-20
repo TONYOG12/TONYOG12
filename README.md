@@ -1,4 +1,4 @@
-#### Hi there 👋, my name is Tony.
+<!--#### Hi there 👋, my name is Tony.
 #### 📫 How to reach me: tonykgyan@gmail.com.
 
 
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tonyog12&show_icons=true&theme=dark&hide=css)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=tonyog12&color=green)
-
+-->
 
 
 
